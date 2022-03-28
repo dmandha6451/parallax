@@ -1,0 +1,86 @@
+/* CSS Document */
+
+body{
+    background-color: rgba(132,145,124,1.00);
+    font-size: 14pt;
+    font-family: opake,sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    color: rgba(132,145,124,1.00);
+  
+  }
+
+.container{
+    max-width: 1368px;
+    font-size: 24px;
+    padding: 5px;
+  background-color: rgba(251,198,70,1.00);
+	
+}
+
+h1{
+	text-align: center;
+	 font-family: synthemesc,sans-serif;
+font-weight: 400;
+font-style: normal;
+}
+
+p{
+	text-align: center;
+}
+
+img{
+	height: 30px;
+}
+.parallax{
+	background: url("header1.png") no-repeat center;
+	background-size: cover;
+	background-attachment: fixed;
+	height: 768px;
+}
+
+.parallax1{
+	background: url("scene1.png") no-repeat center;
+	background-size: cover;
+	background-attachment: fixed;
+	height: 768px;
+}
+.parallax2{
+	background: url("scene2.png") no-repeat center;
+	background-size: cover;
+	background-attachment: fixed;
+	height: 768px;
+}
+.parallax3{
+	background: url("scene3.png") no-repeat center;
+	background-size: cover;
+	background-attachment: fixed;
+	height: 768px;
+}
+.parallax4{
+	background: url("scene4.png") no-repeat center;
+	background-size: cover;
+	background-attachment: fixed;
+	height: 768px;
+}
+.parallax5{
+	background: url("scene5.png") no-repeat center;
+	background-size: cover;
+	background-attachment: fixed;
+	height: 768px;
+}
+.parallax6{
+	background: url("scene6.png") no-repeat center;
+	background-size: cover;
+	background-attachment: fixed;
+	height: 768px;
+}
+
+.parallax7{
+	background: url("scene7.png") no-repeat center;
+	background-size: cover;
+	background-attachment: fixed;
+	height: 768px;
+}
+	
+	
